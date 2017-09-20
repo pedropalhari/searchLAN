@@ -20,10 +20,14 @@ scanLAN('192.168.0.1').then(result => {
 })
 
 scanLAN('192.168.0.1', 10000, 100, 110).then(result => {
-    console.log(result); ['192.168.0.1, '192.168.0.100', ..., '192.168.0.109'] with a 10 second timeout
+    console.log(result); //['192.168.0.1, '192.168.0.100', ..., '192.168.0.109'] with a 10 second timeout
 })
 ```
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+
+* [request](https://github.com/request/request)
