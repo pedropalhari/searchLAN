@@ -12,7 +12,7 @@
     "ping"
   ],
   "author": "Pedro Palhari Santos",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.82.0",
     "request-promise-native": "^1.0.4"
