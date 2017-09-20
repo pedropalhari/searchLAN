@@ -1,0 +1,20 @@
+{
+  "name": "scanlan",
+  "version": "1.0.0",
+  "description": "Scan your LAN in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scan",
+    "lan",
+    "ping"
+  ],
+  "author": "Pedro Palhari Santos",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.82.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
