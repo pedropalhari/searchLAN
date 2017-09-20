@@ -27,3 +27,7 @@ scanLAN('192.168.0.1', 10000, 100, 110).then(result => {
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+
+* [request](https://github.com/request/request)
